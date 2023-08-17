@@ -1,4 +1,4 @@
-# Duvan R. Cuero
+# Duvan Ricardo Cuero Colorado
 [GitHub Profile](https://github.com/merolemay)
 
 ## Summary
