@@ -1,16 +1,29 @@
-### Hi there 👋
+# Duvan R. Cuero
+[GitHub Profile](https://github.com/merolemay)
 
-<!--
-**merolemay/merolemay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Enthusiastic software developer with a passion for creating elegant solutions to complex problems. Proficient in various programming languages and experienced in developing web applications, mobile apps, and open-source projects. Strong advocate for clean code and continuous learning.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Java, Python, Scala, C#
+- Web Development: HTML, CSS, React, Node.js
+- Version Control: Git, GitHub
+- Database Management: MySQL, MongoDB, Oracle
+- Problem Solving
+- Agile Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+### Bachelor of Software Engineering | ICESI University
+
+- Relevant Coursework: Data Structures, Algorithms, Web Development, Software Engineering, Machine Learning, Funtional Programing
+- Honors: Dean's List, Academic Excellence Award.
+
+## Languages
+- English (Fluent)
+- Spanish (Intermediate)
+
+## Interests
+- Open Source Contribution
+- Problem Solving
+- Data Science 
