@@ -17,11 +17,10 @@ Enthusiastic software developer with a passion for creating elegant solutions to
 ### Bachelor of Software Engineering | ICESI University
 
 - Relevant Coursework: Data Structures, Algorithms, Web Development, Software Engineering, Machine Learning, Funtional Programing
-- Honors: Dean's List, Academic Excellence Award.
 
 ## Languages
-- English (Fluent)
-- Spanish (Intermediate)
+- English (Intermediate)
+- Spanish (Fluent)
 
 ## Interests
 - Open Source Contribution
