@@ -2,7 +2,7 @@
 [GitHub Profile](https://github.com/merolemay)
 
 ## Summary
-Enthusiastic software developer with a passion for creating elegant solutions to complex problems. Proficient in various programming languages and experienced in developing web applications, mobile apps, and open-source projects. Strong advocate for clean code and continuous learning.
+Enthusiastic systems engineer actively seeking opportunities in Data Science and Machine Learning. Proficient in Java, Python, Scala, and C#, with a strong track record of developing data-driven solutions for various applications. Strong advocate for clean and efficient code, committed to continuous learning and professional growth. Excited to apply my skills and experience in a dynamic environment focused on driving innovation through Data Science and Machine Learning technologies.
 
 ## Skills
 - Programming Languages: Java, Python, Scala, C#
