@@ -1,5 +1,4 @@
 # Duvan Ricardo Cuero Colorado
-[GitHub Profile](https://github.com/merolemay)
 
 ## Summary
 Enthusiastic systems engineer actively seeking opportunities in Data Science and Machine Learning. Proficient in Java, Python, Scala, and C#, with a strong track record of developing data-driven solutions for various applications. Strong advocate for clean and efficient code, committed to continuous learning and professional growth. Excited to apply my skills and experience in a dynamic environment focused on driving innovation through Data Science and Machine Learning technologies.
